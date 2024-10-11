@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknxrm_help=self.webpackChunknxrm_help||[]).push([[1702],{25:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/lisadurant.github.io/blog/tags/hola","allTagsPath":"/lisadurant.github.io/blog/tags","count":1}')}}]);
